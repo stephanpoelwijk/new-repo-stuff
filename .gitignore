@@ -443,3 +443,8 @@ $RECYCLE.BIN/
 
 launchSettings.json
 *.Development.json
+
+## Misc stuff
+.DS_Store
+__pycache__
+
